@@ -40,4 +40,5 @@ yarn start
 
 Your application will be accessible from `localhost:3000`
 
+```sh
 To Make the project work You need to invite the bot to your discord channel that can be done using discord developer section
