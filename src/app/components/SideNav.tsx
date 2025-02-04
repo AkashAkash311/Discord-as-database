@@ -142,7 +142,7 @@ export default function SideNav() {
       `}
       >
         <div className="flex justify-center flex-col w-full p-4 border-b border-[#444] border-dashed">
-          <h1 className="text-2xl font-bold text-center">SaveDeezNotes</h1>
+          <h1 className="text-2xl font-bold text-center">NoteCord </h1>
         </div>
         <h2 className="text-sm font-semibold px-4 py-2 border-b border-[#444] border-dashed">
           Your Notes
